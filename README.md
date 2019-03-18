@@ -1,4 +1,4 @@
-# -Crop-classification
+# Crop-classification
 -----------------------------------------
 # 目录
 -  [1. 赛题要求](#1-赛题要求)
